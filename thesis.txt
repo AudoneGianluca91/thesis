@@ -2,4 +2,4 @@
 
 This is the first paragraph
 
-I have already created a conflict
+conflict solved!
